@@ -1,1 +1,2 @@
 # Prueba-SMR
+Hola clase
